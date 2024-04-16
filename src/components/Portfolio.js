@@ -11,33 +11,33 @@ const Portfolio = () => {
       <div className='card-main'>
         <div className='card-1'>
             <div className="card">
-              <img src={require('../Images/hog.png')} className="card-img-top" alt="..."/>
+              <img src={require('../Images/hog.png')} className="card-img-top" alt="img-1"/>
               <div className="card-body">
                 <h5 className="card-title">Histogram of oriented gradients</h5>
                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="https://github.com/BABU-BALAJI-V/AttendanceTracker" target="_blank" className="btn btn-primary">Link</a>
+                <a href="https://github.com/BABU-BALAJI-V/AttendanceTracker" rel="noreferrer" target="_blank" className="btn btn-primary">Link</a>
               </div>
             </div>
         </div>
 
         <div className='card-2'>
             <div className="card">
-              <img src={require('../Images/todo.jpg')} className="card-img-top" alt="..."/>
+              <img src={require('../Images/todo.jpg')} className="card-img-top" alt="img-2"/>
               <div className="card-body">
                 <h5 className="card-title">To-do List</h5>
                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's.</p>
-                <a href="https://github.com/BABU-BALAJI-V/to-do-react" target="_blank" className="btn btn-primary">Link</a>
+                <a href="https://github.com/BABU-BALAJI-V/to-do-react" rel="noreferrer" target="_blank" className="btn btn-primary">Link</a>
               </div>
             </div>
         </div>
 
         <div className='card-3'>
             <div className="card">
-              <img src={require('../Images/rdp.jpg')} className="card-img-top" alt="..."/>
+              <img src={require('../Images/rdp.jpg')} className="card-img-top" alt="img-3"/>
               <div className="card-body">
                 <h5 className="card-title">Remote Desktop Protocol</h5>
                 <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content .</p>
-                <a href="https://github.com/BABU-BALAJI-V/final" target="_blank" className="btn btn-primary">Link</a>
+                <a href="https://github.com/BABU-BALAJI-V/final" rel="noreferrer" target="_blank" className="btn btn-primary">Link</a>
               </div>
             </div>
         </div>
