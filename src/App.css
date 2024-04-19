@@ -104,7 +104,7 @@
 @media (max-width:376px){
   .bio{
     display: grid;
-    max-width: 360px;
+    max-width: 355px;
     padding-bottom: 30px;
 }
 }
