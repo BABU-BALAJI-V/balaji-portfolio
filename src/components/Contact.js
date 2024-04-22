@@ -19,6 +19,7 @@ const Contact = () => {
             })
             .then(
             () => {
+                
                 console.log('SUCCESS!');
                     Swal.fire({
                     title: "Done!",
@@ -40,16 +41,21 @@ const Contact = () => {
 
             <Form ref={form} onSubmit={sendEmail}>
                 <Row className="mb-3">
-                    <Form.Group as={Col} controlId="formGridName">
-                    <Form.Label>Name</Form.Label>
-                    <Form.Control type="name" placeholder="Name" name="user_name"/>
+                    <Form.Group as={Col} controlId="formGridFName">
+                    <Form.Label>First Name</Form.Label>
+                    <Form.Control type="name" placeholder="First Name" name="user_name"/>
                     </Form.Group>
 
-                    <Form.Group as={Col} controlId="formGridEmail">
-                    <Form.Label>Email</Form.Label>
-                    <Form.Control type="email" placeholder="Enter email" name="user_email"/>
+                    <Form.Group as={Col} controlId="formGridLName">
+                    <Form.Label>Last Name</Form.Label>
+                    <Form.Control type="name" placeholder="Last name" name="user_Lname"/>
                     </Form.Group>                    
                 </Row>
+
+                <Form.Group as={Col} controlId="formGridEmail">
+                    <Form.Label>Email</Form.Label>
+                    <Form.Control type="email" placeholder="Enter email" name="user_email"/>
+                </Form.Group> 
 
                 <Form.Group className="mb-3" controlId="formGridPhoneno">
                     <Form.Label>Phone.no</Form.Label>
