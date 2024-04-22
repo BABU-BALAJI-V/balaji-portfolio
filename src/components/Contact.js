@@ -55,7 +55,7 @@ const Contact = () => {
                 <Form.Group as={Col} controlId="formGridEmail">
                     <Form.Label>Email</Form.Label>
                     <Form.Control type="email" placeholder="Enter email" name="user_email"/>
-                </Form.Group> 
+                </Form.Group><br/> 
 
                 <Form.Group className="mb-3" controlId="formGridPhoneno">
                     <Form.Label>Phone.no</Form.Label>
