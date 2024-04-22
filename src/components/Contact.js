@@ -52,10 +52,10 @@ const Contact = () => {
                     </Form.Group>                    
                 </Row>
 
-                <Form.Group as={Col} controlId="formGridEmail">
+                <Form.Group className="mb-3" as={Col} controlId="formGridEmail">
                     <Form.Label>Email</Form.Label>
                     <Form.Control type="email" placeholder="Enter email" name="user_email"/>
-                </Form.Group><br/> 
+                </Form.Group>
 
                 <Form.Group className="mb-3" controlId="formGridPhoneno">
                     <Form.Label>Phone.no</Form.Label>
