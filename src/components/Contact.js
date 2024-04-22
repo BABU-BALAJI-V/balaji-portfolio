@@ -26,20 +26,21 @@ const Contact = () => {
                     text: "Email Sent!",
                     icon: "success"
                   });
+                  document.getElementById("contact-form").reset();
             },
             (error) => {
                 console.log('FAILED...', error.text);
             },
             );
         };
-
+       
   return (
     <Container id='contact' className='form-div'>
             <h2 className='header-clr'>Contact</h2>
             <div className="divider"></div><br/>
             <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
 
-            <Form ref={form} onSubmit={sendEmail}>
+            <Form id="contact-form" ref={form} onSubmit={sendEmail}>
                 <Row className="mb-3">
                     <Form.Group as={Col} controlId="formGridFName">
                     <Form.Label>First Name</Form.Label>
