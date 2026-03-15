@@ -10,17 +10,13 @@ const About = () => {
         <div className='About' id="About">
             <h2 className='header-clr'>About</h2>
             <div className="divider"></div><br/>
-            <p>Motivated and ambitious Computer Science student
-            passionate about pushing programming boundaries. Proactive
-            problem solver with a drive for excellence and eagerness to
-            learn. Ready to make a meaningful impact and contribute to a
-            dynamic team.</p>
+            <p>I am a Full-Stack Developer specializing in the MERN stack, dedicated to building robust web applications that bridge the gap between complex logic and seamless user experiences. With a strong foundation in JavaScript, ReactJS, and Node.js, I focus on writing clean, maintainable code and optimizing end-to-end performance. I thrive on solving real-world challenges through efficient architecture and secure, scalable design.</p>
         </div>
         <div className='AboutMain'>
             <div className='picture'>
             <Row>
                 <Col xs={6} md={4}>
-                    <Image className='dp-pic' height="430px" src={require('../Images/profilepic.jpg')} rounded />
+                    <Image className='dp-pic' height="430px" src={require('../Images/ProfilePicture.jpg')} rounded />
                 </Col>
             </Row>    
             </div>
@@ -35,7 +31,7 @@ const About = () => {
                         <p><i className="bi bi-chevron-right"></i> <b>City: </b> THANJAVUR, TAMIL NADU</p>
                     </div>
                     <div className='arrow-clr right-bio fs-5 '>
-                        <p><i className="bi bi-chevron-right"></i> <b>Age: </b>  21</p>
+                        <p><i className="bi bi-chevron-right"></i> <b>Age: </b>  23</p>
                         <p><i className="bi bi-chevron-right"></i> <b>Degree: </b>  B.TECH - CSE</p>
                         <p><i className="bi bi-chevron-right"></i> <b>PhEmailone: </b>  babu.balajijr@gmail.com</p>
                         <p><i className="bi bi-chevron-right"></i> <b>Freelance: </b>  Available</p>
