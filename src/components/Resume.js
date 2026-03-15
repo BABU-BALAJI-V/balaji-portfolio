@@ -7,7 +7,7 @@ const Resume = () => {
         <div>
             <h2 className='header-clr'>Resume</h2>
             <div className="divider"></div><br/>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>I am a dedicated and highly focused Full-Stack Developer who thrives on the challenge of building complex digital systems from the ground up. My approach to development is defined by consistency and technical curiosity; I don't just solve problems—I dive deep into the "why" to ensure every solution is secure, scalable, and efficient.</p>
             <br/>
             <div className='resume-main'>
                 <div className='resume-left'>
@@ -25,12 +25,12 @@ const Resume = () => {
 
                             <div className="list-item"> 
                                 <div className="list-title">
-                                        <h5><b>BALAJI V</b></h5>
+                                        <h5><b>BABU BALAJI V</b></h5>
                                 </div>
                                 <div className="list-text">
-                                    <p>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</p>
+                                    <p>Full-Stack Developer with 1+ years of experience specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I have a proven track record of building and deploying scalable web applications, from designing intuitive user interfaces to architecting secure backend APIs.</p>
                                     <ul>
-                                        <li>THANJAVUR, TAMIL NADU</li>
+                                        <li>BANGALORE, KARNATAKA</li>
                                         <li>8778418841</li>
                                         <li>babu.balajijr@gmail.com</li>
                                     </ul>
@@ -51,7 +51,7 @@ const Resume = () => {
 
                             <div className="list-item"> 
                                 <div className="list-title">
-                                        <h5><b>B.TECH - CSE ( SASTRA UNIVERSITY )</b></h5>
+                                        <h5><b>SASTRA UNIVERSITY ( B.TECH - CSE )</b></h5>
                                         <div className='year-span'>&emsp;2020-2024</div>
                                 </div>
                                 <div className="list-text">
@@ -70,7 +70,7 @@ const Resume = () => {
 
                             <div className="list-item"> 
                                 <div className="list-title">
-                                        <h5><b>12th ( THAMARAI INTERNATIONAL SCHOOL )</b></h5>
+                                        <h5><b>THAMARAI INTERNATIONAL SCHOOL ( 12th )</b></h5>
                                         <div className='year-span'>&emsp;2019-2020</div>
                                 </div>
                                 <div className="list-text">
@@ -89,7 +89,7 @@ const Resume = () => {
 
                             <div className="list-item"> 
                                 <div className="list-title">
-                                        <h5><b>10th ( BLOSSOM PUBLIC SCHOOL )</b></h5>
+                                        <h5><b>BLOSSOM PUBLIC SCHOOL ( 10th )</b></h5>
                                         <div className='year-span'>&emsp;2017-2018</div>
                                 </div>
                                 <div className="list-text">
@@ -115,11 +115,11 @@ const Resume = () => {
 
                                 <div className="list-item"> 
                                     <div className="list-title">
-                                    <h5><b>FULL-STACK DEVELOPER INTERN ( Indiespirit Technologies )</b></h5>
+                                    <h5><b>Indiespirit Technologies ( FULL-STACK DEVELOPER INTERN )</b></h5>
                                     <div className='year-span'>&emsp;2023-2024</div>
                                     </div>
                                 <div className="list-text">
-                                    <p>Nungambakkam, Chennai, Tamil Nadu</p>
+                                    <p>Chennai, Tamil Nadu</p>
                                     <ul>
                                         <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
                                         <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project.</li>
@@ -139,11 +139,11 @@ const Resume = () => {
 
                             <div className="list-item"> 
                                 <div className="list-title">
-                                    <h5><b>WEB DEVELOPMENT TRAINEE ( Indiespirit Technologies )</b></h5>
+                                    <h5><b>Indiespirit Technologies ( WEB DEVELOPMENT TRAINEE )</b></h5>
                                     <div className='year-span'>&emsp;2022-2023</div>
                                 </div>
                                 <div className="list-text">
-                                    <p>Nungambakkam, Chennai, Tamil Nadu</p>
+                                    <p>Chennai, Tamil Nadu</p>
                                     <ul>
                                         <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
                                         <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project.</li>
