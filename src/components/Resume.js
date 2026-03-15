@@ -7,7 +7,7 @@ const Resume = () => {
         <div>
             <h2 className='header-clr'>Resume</h2>
             <div className="divider"></div><br/>
-            <p>I am a dedicated and highly focused Full-Stack Developer who thrives on the challenge of building complex digital systems from the ground up. My approach to development is defined by consistency and technical curiosity; I don't just solve problems—I dive deep into the "why" to ensure every solution is secure, scalable, and efficient.</p>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
             <br/>
             <div className='resume-main'>
                 <div className='resume-left'>

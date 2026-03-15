@@ -37,7 +37,7 @@ const About = () => {
                         <p><i className="bi bi-chevron-right"></i> <b>Company: </b>  Tata Consultancy Services</p>
                     </div>
                 </div>
-                <p className='bio-ptag'>Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.</p>
+                <p className='bio-ptag'>I am a dedicated and highly focused Full-Stack Developer who thrives on the challenge of building complex digital systems from the ground up. My approach to development is defined by consistency and technical curiosity; I don't just solve problems—I dive deep into the "why" to ensure every solution is secure, scalable, and efficient.</p>
             </div>
         </div>
     </Container>
