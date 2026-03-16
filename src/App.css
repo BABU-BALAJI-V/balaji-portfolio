@@ -11,6 +11,10 @@
   overflow: hidden;
 }
 
+.row{  
+  box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.3) !important;
+}
+
 @media (max-width:376px){
   .hero-img{
     width: 100%;
@@ -28,6 +32,19 @@
 .AboutMain{
   display: flex;
   margin-bottom: 40px;
+}
+
+.left-bio p a{
+  text-decoration: none;
+  color: rgb(143, 149, 205);
+}
+
+.bio{
+  margin-left: 20px;
+}
+
+.left-bio p a:hover{
+  color: rgb(93, 91, 91);
 }
 
 .picture{
